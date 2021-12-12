@@ -1,7 +1,7 @@
 module.exports = {
     app: {
         px: '§',
-        token: 'ODk3ODQzNTk5ODA1Mzk0OTY1.YWbkAw.UenLM42u4WhnxAMrJcrfd3CiivA',
+        token: 'ODk3ODQzNTk5ODA1Mzk0OTY1.YWbkAw.H7UM2WHHZp-aD6Quf3kwkph4doU',
         playing: 'By Flexity ❤️'
     },
 
