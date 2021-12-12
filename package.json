@@ -1,6 +1,6 @@
 {
     "name": "music-bot",
-    "main": "main.js",
+    "main": "index.js",
     "author": "Flexity",
     "version": "6.0.0",
     "repository": "https://github.com/ZerioDev/Music-bot.git",
